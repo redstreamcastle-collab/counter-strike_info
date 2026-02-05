@@ -1,6 +1,6 @@
-MPL Series 1 (Ranked • LAN • Алматы)
+MPL Series 2 (Ranked • LAN • Алматы)
 🔥 Призовой фонд — до 10 000 000 KZT (~ $20 000)
-MPL Series 1 — Ranked LAN-турнир в Алматы.
+MPL Series 2 — Ranked LAN-турнир в Алматы.
 ⚠️ Турнир проводится по системе открытой регистрации — квалификаций и инвайтов не будет.
 📝 Регистрация (First-come-first-served)
 Старт регистрации: 6 февраля
@@ -61,9 +61,9 @@ MySkill
 📄 Регламент и подробности: [ССЫЛКА ТУТ]
 Поддержка: @myskill_livebot
 
-MPL Series 1 (Ranked • LAN • Almaty)
+MPL Series 2 (Ranked • LAN • Almaty)
 🔥 Prize pool — up to 10,000,000 KZT (~$20,000)
-MPL Series 1 — Ranked LAN tournament in Almaty.
+MPL Series 2 — Ranked LAN tournament in Almaty.
 ⚠️ The tournament is held with open registration — there will be no qualifiers or invites.
 📝 Registration (First-come-first-served)
 Registration opens: February 6th
